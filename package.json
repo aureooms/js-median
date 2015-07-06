@@ -1,0 +1,44 @@
+{
+	"author": "aureooms",
+	"spm": {
+		"main": "js/dist/median.js"
+	},
+	"homepage": "http://aureooms.github.io/js-median/",
+	"name": "aureooms-js-median",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-median/issues"
+	},
+	"version": "0.0.0",
+	"main": "js/dist/median.js",
+	"devDependencies": {
+		"aureooms-node-package": "^4.2.5"
+	},
+	"keywords": [
+		"5",
+		"bricks",
+		"ender",
+		"find",
+		"five",
+		"javascript",
+		"js",
+		"median",
+		"median of 5",
+		"of",
+		"search",
+		"searching",
+		"select",
+		"selection"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-median.git"
+	},
+	"description": "Median searching code bricks for JavaScript",
+	"license": "AGPL-3.0",
+	"dependencies": {},
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build"
+	}
+}

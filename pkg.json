@@ -1,0 +1,17 @@
+{
+	"out": "js/dist/",
+	"debug": false,
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"median.js"
+		]
+	},
+	"name": "median",
+	"src": "js/src/"
+}
