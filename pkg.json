@@ -13,5 +13,7 @@
 		]
 	},
 	"name": "median",
-	"src": "js/src/"
+	"src": "js/src/",
+	"babel": true,
+	"rec": true
 }

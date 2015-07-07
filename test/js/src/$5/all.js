@@ -1,7 +1,6 @@
 
 var compare = require( "aureooms-js-compare" ) ;
 var itertools = require( "aureooms-js-itertools" ) ;
-var functools = require( "aureooms-js-functools" ) ;
 var starmap = itertools.starmap ;
 var permutations = itertools.permutations ;
 var product = itertools.product ;
@@ -11,7 +10,7 @@ var listof5 = [ 1 , 2 , 3 , 4 , 5 ] ;
 
 var one = function ( method , compare , list ) {
 
-	var T = mehtod.name + " ( " + compare.name + " , " + list + " ) : " ;
+	var T = method.name + " ( " + compare.name + " , " + list + " ) : " ;
 
 	deepEqual( list.length , 5 , T + "length is 5" ) ;
 
@@ -42,7 +41,7 @@ var one = function ( method , compare , list ) {
 	deepEqual( list[i] , m , T + "median is " + m ) ;
 
 	// check that elements in the list did not change
-	deepEqual( list.sort( compare ) , listof5 , T + "the contents of the list stayed unchanged" ) ;
+	deepEqual( list.sort( compare ) , b , T + "the contents of the list stayed unchanged" ) ;
 
 } ;
 
