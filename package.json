@@ -13,7 +13,7 @@
   "devDependencies": {
     "aureooms-js-compare": "^1.4.4",
     "aureooms-js-itertools": "^1.1.2",
-    "aureooms-node-package": "^4.2.5"
+    "aureooms-node-package": "^6.0.1"
   },
   "keywords": [
     "5",
