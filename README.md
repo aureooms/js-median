@@ -3,15 +3,15 @@
 
 Median searching code bricks for JavaScript
 
-[![NPM license](http://img.shields.io/npm/l/aureooms-js-median.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-median/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/aureooms-js-median.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-median)
-[![Bower version](http://img.shields.io/bower/v/aureooms-js-median.svg?style=flat)](http://bower.io/search/?q=aureooms-js-median)
+[![NPM license](http://img.shields.io/npm/l/@aureooms/js-median.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-median/master/LICENSE)
+[![NPM version](http://img.shields.io/npm/v/@aureooms/js-median.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-median)
+[![Bower version](http://img.shields.io/bower/v/@aureooms/js-median.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-median)
 [![Build Status](http://img.shields.io/travis/aureooms/js-median.svg?style=flat)](https://travis-ci.org/aureooms/js-median)
 [![Coverage Status](http://img.shields.io/coveralls/aureooms/js-median.svg?style=flat)](https://coveralls.io/r/aureooms/js-median)
 [![Dependencies Status](http://img.shields.io/david/aureooms/js-median.svg?style=flat)](https://david-dm.org/aureooms/js-median#info=dependencies)
 [![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-median.svg?style=flat)](https://david-dm.org/aureooms/js-median#info=devDependencies)
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-median.svg?style=flat)](https://codeclimate.com/github/aureooms/js-median)
-[![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-median.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-median)
+[![NPM downloads per month](http://img.shields.io/npm/dm/@aureooms/js-median.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-median)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-median.svg?style=flat)](https://github.com/aureooms/js-median/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-median.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-median)
 
@@ -30,7 +30,7 @@ and [npm](https://github.com/npm/npm).
 ```terminal
 jspm install github:aureooms/js-median
 # or
-jspm install npm:aureooms-js-median
+jspm install npm:@aureooms/js-median
 ```
 ### duo
 No install step needed for duo!
@@ -42,27 +42,27 @@ component install aureooms/js-median
 
 ### bower
 ```terminal
-bower install aureooms-js-median
+bower install @aureooms/js-median
 ```
 
 ### ender
 ```terminal
-ender add aureooms-js-median
+ender add @aureooms/js-median
 ```
 
 ### jam
 ```terminal
-jam install aureooms-js-median
+jam install @aureooms/js-median
 ```
 
 ### spm
 ```terminal
-spm install aureooms-js-median --save
+spm install @aureooms/js-median --save
 ```
 
 ### npm
 ```terminal
-npm install aureooms-js-median --save
+npm install @aureooms/js-median --save
 ```
 
 ## Require
@@ -70,7 +70,7 @@ npm install aureooms-js-median --save
 ```js
 let median = require( "github:aureooms/js-median" ) ;
 // or
-import median from 'aureooms-js-median' ;
+import median from '@aureooms/js-median' ;
 ```
 ### duo
 ```js
@@ -79,17 +79,17 @@ let median = require( "aureooms/js-median" ) ;
 
 ### component, ender, spm, npm
 ```js
-let median = require( "aureooms-js-median" ) ;
+let median = require( "@aureooms/js-median" ) ;
 ```
 
 ### bower
 The script tag exposes the global variable `median`.
 ```html
-<script src="bower_components/aureooms-js-median/js/dist/median.min.js"></script>
+<script src="bower_components/@aureooms/js-median/js/dist/median.min.js"></script>
 ```
 Alternatively, you can use any tool mentioned [here](http://bower.io/docs/tools/).
 
 ### jam
 ```js
-require( [ "aureooms-js-median" ] , function ( median ) { ... } ) ;
+require( [ "@aureooms/js-median" ] , function ( median ) { ... } ) ;
 ```
