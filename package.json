@@ -4,15 +4,15 @@
     "main": "js/dist/median.js"
   },
   "homepage": "http://aureooms.github.io/js-median/",
-  "name": "aureooms-js-median",
+  "name": "@aureooms/js-median",
   "bugs": {
     "url": "https://github.com/aureooms/js-median/issues"
   },
   "version": "0.0.1",
   "main": "js/dist/median.js",
   "devDependencies": {
-    "aureooms-js-compare": "^1.4.4",
-    "aureooms-js-itertools": "^3.0.0",
+    "@aureooms/js-compare": "^1.4.4",
+    "@aureooms/js-itertools": "^3.0.0",
     "aureooms-node-package": "^6.0.1"
   },
   "keywords": [
