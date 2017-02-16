@@ -1,6 +1,6 @@
 
-var compare = require( "aureooms-js-compare" ) ;
-var itertools = require( "aureooms-js-itertools" ) ;
+var compare = require( "@aureooms/js-compare" ) ;
+var itertools = require( "@aureooms/js-itertools" ) ;
 var starmap = itertools.starmap ;
 var permutations = itertools.permutations ;
 var product = itertools.product ;
