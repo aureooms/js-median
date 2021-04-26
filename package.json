@@ -3,7 +3,7 @@
   "spm": {
     "main": "js/dist/median.js"
   },
-  "homepage": "http://aureooms.github.io/js-median/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-median/",
   "name": "@aureooms/js-median",
   "bugs": {
     "url": "https://github.com/aureooms/js-median/issues"

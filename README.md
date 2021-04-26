@@ -1,4 +1,4 @@
-[js-median](http://aureooms.github.io/js-median)
+[js-median](http://make-github-pseudonymous-again.github.io/js-median)
 ==
 
 Median searching code bricks for JavaScript
