@@ -3,17 +3,17 @@
 
 Median searching code bricks for JavaScript
 
-[![License](https://img.shields.io/github/license/aureooms/js-median.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-median/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-median.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-median/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-median.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-median)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-median.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-median)
-[![Build Status](https://img.shields.io/travis/aureooms/js-median.svg?style=flat)](https://travis-ci.org/aureooms/js-median)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-median.svg?style=flat)](https://coveralls.io/r/aureooms/js-median)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-median.svg?style=flat)](https://david-dm.org/aureooms/js-median#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-median.svg?style=flat)](https://david-dm.org/aureooms/js-median#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-median.svg?style=flat)](https://codeclimate.com/github/aureooms/js-median)
+[![Build Status](https://img.shields.io/travis/make-github-pseudonymous-again/js-median.svg?style=flat)](https://travis-ci.org/make-github-pseudonymous-again/js-median)
+[![Coverage Status](https://img.shields.io/coveralls/make-github-pseudonymous-again/js-median.svg?style=flat)](https://coveralls.io/r/make-github-pseudonymous-again/js-median)
+[![Dependencies Status](https://img.shields.io/david/make-github-pseudonymous-again/js-median.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-median#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-median.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-median#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/make-github-pseudonymous-again/js-median.svg?style=flat)](https://codeclimate.com/github/make-github-pseudonymous-again/js-median)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-median.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-median)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-median.svg?style=flat)](https://github.com/aureooms/js-median/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-median.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-median)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-median.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-median/issues)
+[![Inline docs](http://inch-ci.org/github/make-github-pseudonymous-again/js-median.svg?branch=master&style=shields)](http://inch-ci.org/github/make-github-pseudonymous-again/js-median)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
 [duo](https://github.com/duojs/duo),
